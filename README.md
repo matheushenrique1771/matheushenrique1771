@@ -103,3 +103,16 @@ Atualmente estudo constantemente para evoluir nas áreas de:
 ### 💻 "Cybersecurity is a continuous process, not a destination."
 
 </div>
+
+---
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheushenrique1771/matheushenrique1771/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheushenrique1771/matheushenrique1771/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/matheushenrique1771/matheushenrique1771/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
