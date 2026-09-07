@@ -19,7 +19,6 @@ Atualmente estudo constantemente para evoluir nas áreas de:
 - 🔍 Threat Hunting
 - 🛡️ Blue Team
 - ⚔️ Pentest
-- ☁️ Cloud Security
 - 🐧 Linux
 - 🐍 Python
 
@@ -44,10 +43,9 @@ Atualmente estudo constantemente para evoluir nas áreas de:
 | FortiSIEM | VMware |
 | FortiGate | Docker |
 | Wazuh | Linux |
-| Grafana | Git |
-| Zabbix | Windows Server |
+| Nmap | Windows Server |
 | Wireshark | Active Directory |
-| Nmap | |
+
 
 </div>
 
@@ -61,28 +59,6 @@ Atualmente estudo constantemente para evoluir nas áreas de:
 - Malware Analysis
 - Reverse Engineering
 - Threat Hunting
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=matheushenrique1771&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushenrique1771&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=matheushenrique1771&theme=tokyonight"/>
-
-</div>
 
 ---
 
