@@ -49,19 +49,6 @@ Atualmente estudo constantemente para evoluir nas áreas de:
 
 </div>
 
----
-
-# 📚 Atualmente estudando
-
-- Offensive Security
-- Red Team
-- Active Directory
-- Malware Analysis
-- Reverse Engineering
-- Threat Hunting
-
----
-
 # 🌎 Contato
 
 <div align="center">
