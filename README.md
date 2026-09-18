@@ -24,29 +24,6 @@ Atualmente estudo constantemente para evoluir nas áreas de:
 
 ---
 
-# 🚀 Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,vscode,mysql"/>
-
-</p>
-
----
-
-# 🛡️ Ferramentas
-
-<div align="center">
-
-| Segurança | Infraestrutura |
-|------------|---------------|
-| FortiSIEM | VMware |
-| FortiGate | Docker |
-| Wazuh | Linux |
-| Nmap | Windows Server |
-| Wireshark | Active Directory |
-
-
 </div>
 
 # 🌎 Contato
